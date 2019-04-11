@@ -1,3 +1,3 @@
 text
-version MSD29-1.1.1
-dane MSD29-1.1.1
+version MSD29-2.2.2
+dane MSD29-2.2.2
